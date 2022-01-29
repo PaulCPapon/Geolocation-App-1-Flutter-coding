@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061847594674",
+    "firebase_url": "https://geoapp-231110.firebaseio.com",
+    "project_id": "geoapp-231110",
+    "storage_bucket": "geoapp-231110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061847594674:android:2558c2d071733072",
+        "android_client_info": {
+          "package_name": "com.example.geolocalizzazioneapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061847594674-cdvobosid3qpbbp7vsdq3d5lseq2voe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geolocalizzazioneapp1",
+            "certificate_hash": "5aa01097871f973735577de5b23e698d5b9fa5a4"
+          }
+        },
+        {
+          "client_id": "1061847594674-qv2da991e9hroj4s1din1u66e931jj05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIVnw0bpFakCz9QrCjEhS3QQ18LjSXCP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061847594674-qv2da991e9hroj4s1din1u66e931jj05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
